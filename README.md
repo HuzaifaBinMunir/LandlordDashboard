@@ -8,4 +8,5 @@ NOTE:
 If you want to explore yourself you can refer to the following:
 Stack Overflow: https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly/61859561#61859561
 YouTube: https://www.youtube.com/watch?v=84IOtc05TuA
+YouTube: https://www.youtube.com/watch?v=tGMmxGIHHQc
 YouTube: https://www.youtube.com/watch?v=fU_HgdT_L8o
